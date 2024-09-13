@@ -67,6 +67,9 @@ contact: 'random@email.com'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- database_vs_spreadsheet.md
+- interface.md
+- Dataimport-NOCODB.md
 
 # Information for Learners
 learners: 
