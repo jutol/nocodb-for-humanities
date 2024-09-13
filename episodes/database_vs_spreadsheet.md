@@ -23,6 +23,21 @@ exercises: 0
 
 TODO
 
+:::::::::: challenge
+
+To recap all the terms you learned just now: Which properties apply to relational databases?
+
+- [ ] answer 1
+- [ ] answer 2
+- [ ] answer 2
+
+:::solution
+
+right aswer
+:::
+
+:::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - keypoint 1
