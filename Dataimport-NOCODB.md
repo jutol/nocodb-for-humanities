@@ -22,6 +22,25 @@ exercises: 15
 not yet added
 
 
+::::::::::::::::::::::: challenge
+
+What is the question?
+
+:::::::::::: hint
+
+The answer is a number.
+
+:::::::::::::::::
+
+:::::::::::: solution
+
+84
+
+:::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::
+
+
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - Use NocoDB
