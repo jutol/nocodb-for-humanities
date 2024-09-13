@@ -18,10 +18,17 @@ exercises: 0
 - 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-TODO
 
-::::::::::::::::::::::::::::::::::::: keypoints 
+::::::::: challenge
 
+Create a new table for your data
 
+:::::: hint
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+Before creating a new table you need to create a base first
+
+::::::: solution
+
+Click on new base and in this base create a table
+
+::::::
