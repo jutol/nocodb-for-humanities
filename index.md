@@ -15,15 +15,11 @@ Before coming to this course, please make sure you have:
 - 
 :::::
 
-::::: objectives
-
 After completing this lesson you should be able to:
 
 - normalize your data
 - create a relational databank with NocoDB
 - create different views for your data
-
-:::::
 
 ::::: spoiler
 
