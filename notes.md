@@ -1,3 +1,3 @@
 # Notes
 
-These are new instructor notes and i have no idea aswell, where these will be placed. But we will find out.
+These are learners notes and I dont know where they will appear. This is a learners lesson note.
