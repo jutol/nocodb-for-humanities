@@ -10,10 +10,16 @@
     <loc>https://jutol.github.io/nocodb-for-humanities/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
+    <loc>https://jutol.github.io/nocodb-for-humanities/Dataimport-NOCODB.html</loc>
+  </url>
+  <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/LICENSE.html</loc>
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://jutol.github.io/nocodb-for-humanities/database_vs_spreadsheet.html</loc>
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/images.html</loc>
@@ -31,10 +37,16 @@
     <loc>https://jutol.github.io/nocodb-for-humanities/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
+    <loc>https://jutol.github.io/nocodb-for-humanities/instructor/Dataimport-NOCODB.html</loc>
+  </url>
+  <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/instructor/LICENSE.html</loc>
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://jutol.github.io/nocodb-for-humanities/instructor/database_vs_spreadsheet.html</loc>
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/instructor/images.html</loc>
@@ -44,6 +56,9 @@
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://jutol.github.io/nocodb-for-humanities/instructor/interface.html</loc>
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/instructor/introduction.html</loc>
@@ -59,6 +74,9 @@
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://jutol.github.io/nocodb-for-humanities/interface.html</loc>
   </url>
   <url>
     <loc>https://jutol.github.io/nocodb-for-humanities/introduction.html</loc>
