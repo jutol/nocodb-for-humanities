@@ -23,6 +23,7 @@ exercises: 0
 
 Create a new table for your data
 
+::::::
 
 ::::::: solution
 
