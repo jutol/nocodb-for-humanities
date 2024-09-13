@@ -23,9 +23,6 @@ exercises: 0
 
 Create a new table for your data
 
-:::::: hint
-
-Before creating a new table you need to create a base first
 
 ::::::: solution
 
